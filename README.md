@@ -2,6 +2,15 @@
 
 This is a simple **PHP CRUD (Create, Read, Update, Delete)** showcase that uses **MySQLi** (procedural style) to interact with a MySQL database.
 
+# Folder Structure
+CRUD-php/
+├── connect.php
+├── create.php
+├── read.php
+├── update.php
+└── delete.php
+
+
 ## 🛠 Features
 - Add new users
 - View all users
